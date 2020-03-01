@@ -1,0 +1,7 @@
+{
+    "$schema": "./columboSchema.json",
+    "name": "An Exercise in Fatality",
+    "synopsis": "A health club owner murders one of his franchisees.",
+    "reboot": "true",
+    "season": 123
+}
